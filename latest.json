@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "1.19.0",
+  "versionCode": 36,
+  "versionName": "1.20.0",
   "url": "https://github.com/iOsa01/qusasa-releases/releases/latest/download/qusasa-latest.apk",
-  "notes": "قُصاصة 1.19.0: حذف أجزاء متعددة من وسط الفيديو في المحرر — «قسّم هنا» ثم «احذف الجزء» أو «استرجع»، والإخفاء والنص والملصقات على زمنها الصحيح بعد الحذف.",
-  "sha256": "3c15bd3e3533d1132ffcd31ce96a79e9715aeb0cbdb2f487c1859b0d59b33c1f"
+  "notes": "رأس موحّد بزر رجوع في كل الشاشات، والمحرر بتصميم التطبيق نفسه، وانتقال منزلق بين الشاشات يدل على التقدم والرجوع",
+  "sha256": "ab71d2c7263a66442965c982d340ec0f8c0abd22aae1ae0ccccf4b45188a5c46"
 }

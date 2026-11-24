@@ -1,7 +1,7 @@
 {
-  "versionCode": 37,
-  "versionName": "1.20.1",
+  "versionCode": 40,
+  "versionName": "1.22.0",
   "url": "https://github.com/iOsa01/qusasa-releases/releases/latest/download/qusasa-latest.apk",
-  "notes": "يُعلمك التطبيق الآن بالتحديث الجديد تلقائياً: نافذة عند الفتح فيها ما الجديد، وإشعار يومي في الخلفية",
-  "sha256": "7d1323ccb319ffd0bc94fa84874b232c2e9f74c47c758f676f89aeefe861626c"
+  "notes": "تراجع وإعادة ومسودات في المحرر، وبحث في السجل، وطابور تحميل عدة روابط معاً. ملاحظة: هذا الإصدار بمفتاح توقيع جديد.",
+  "sha256": "802ff6e86f3c0b5935282fb010d958bf984c084562e0caf67f1562d4ac0845fa"
 }

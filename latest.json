@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "1.20.0",
+  "versionCode": 37,
+  "versionName": "1.20.1",
   "url": "https://github.com/iOsa01/qusasa-releases/releases/latest/download/qusasa-latest.apk",
-  "notes": "رأس موحّد بزر رجوع في كل الشاشات، والمحرر بتصميم التطبيق نفسه، وانتقال منزلق بين الشاشات يدل على التقدم والرجوع",
-  "sha256": "ab71d2c7263a66442965c982d340ec0f8c0abd22aae1ae0ccccf4b45188a5c46"
+  "notes": "يُعلمك التطبيق الآن بالتحديث الجديد تلقائياً: نافذة عند الفتح فيها ما الجديد، وإشعار يومي في الخلفية",
+  "sha256": "7d1323ccb319ffd0bc94fa84874b232c2e9f74c47c758f676f89aeefe861626c"
 }

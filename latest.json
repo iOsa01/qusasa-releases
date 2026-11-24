@@ -1,7 +1,7 @@
 {
-  "versionCode": 41,
-  "versionName": "1.23.0",
+  "versionCode": 42,
+  "versionName": "1.23.1",
   "url": "https://github.com/iOsa01/qusasa-releases/releases/latest/download/qusasa-latest.apk",
-  "notes": "قصة سناب: حضّر فيديوك بلمسة (قص 9:16 وتقسيم 60 ثانية) ثم أرسل المقاطع إلى سناب بالترتيب",
-  "sha256": "f38b46aec0b022a1c4a01d747a17e3d0ee7513cc5db6c235d23b4ef78986061e"
+  "notes": "فصل قُصاصة عن نبضة ومحرر PDF: أُزيل قسم «تطبيقاتي». يبقى تحديث قُصاصة لنفسها كما هو.",
+  "sha256": "cb81351ece63675f1f87685630557ab424c0ac93231cbd5deec54e8024f5fb65"
 }

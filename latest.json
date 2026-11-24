@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "1.22.0",
+  "versionCode": 41,
+  "versionName": "1.23.0",
   "url": "https://github.com/iOsa01/qusasa-releases/releases/latest/download/qusasa-latest.apk",
-  "notes": "تراجع وإعادة ومسودات في المحرر، وبحث في السجل، وطابور تحميل عدة روابط معاً. ملاحظة: هذا الإصدار بمفتاح توقيع جديد.",
-  "sha256": "802ff6e86f3c0b5935282fb010d958bf984c084562e0caf67f1562d4ac0845fa"
+  "notes": "قصة سناب: حضّر فيديوك بلمسة (قص 9:16 وتقسيم 60 ثانية) ثم أرسل المقاطع إلى سناب بالترتيب",
+  "sha256": "f38b46aec0b022a1c4a01d747a17e3d0ee7513cc5db6c235d23b4ef78986061e"
 }
